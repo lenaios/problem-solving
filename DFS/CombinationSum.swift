@@ -1,8 +1,4 @@
 
-/* 
-https://leetcode.com/problems/combination-sum/ 
-*/
-
 class Solution {
   var results = [[Int]]()
   var sum = 0
