@@ -1,6 +1,3 @@
-/*
-https://leetcode.com/problems/count-square-submatrices-with-all-ones
-*/
 
 class Solution {
     func countSquares(_ matrix: [[Int]]) -> Int {

@@ -1,7 +1,3 @@
-/*
-https://programmers.co.kr/learn/courses/30/lessons/42862
-여벌이 있는데 잃어버린 학생은 먼저 제외
-*/
 
 import Foundation
 
